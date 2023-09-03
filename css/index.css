@@ -498,7 +498,7 @@ blockquote p {
 }
 @media (min-width: 34em) {
   .page {
-    width: calc(98% - 165px);
+    width: calc(85% - 165px);
     float: right;
     margin-right: 0;
   }
@@ -529,8 +529,8 @@ blockquote p {
 .author-avatar {
   display: table-cell;
   vertical-align: top;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
 }
 .author-avatar img {
   width: 100%;
@@ -704,7 +704,7 @@ blockquote p {
 }
 @media (min-width: 34em) {
   .side-card {
-    width: 165px;
+    width: 180px;
     float: left;
     margin-right: 1.69492%;
     opacity: 0.75;
