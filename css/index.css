@@ -1,3 +1,8 @@
+@media (min-width: 34em) {
+  .page {
+    width: 70%;
+  }
+}
 .page pre,
 .page .highlight {
   overflow: auto;
@@ -498,7 +503,7 @@ blockquote p {
 }
 @media (min-width: 34em) {
   .page {
-    width: calc(98% - 165px);
+    width: 82.5%;
     float: right;
     margin-right: 0;
   }
