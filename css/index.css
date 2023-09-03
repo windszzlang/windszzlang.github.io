@@ -240,13 +240,13 @@ body {
   color: #494e52;
   font-size: 1.8em;
   line-height: 1.5;
-  font-family: Roboto, "Times New", sans-serif;
+  font-family: sans-serif;
   scroll-behavior: smooth;
 }
 a,
 span,
 .btn {
-  font-family: Roboto, "Times New", sans-serif;
+  font-family: sans-serif;
 }
 img {
   max-width: 100%;
@@ -486,14 +486,14 @@ blockquote p {
   text-align: right;
 }
 .page article code {
-  font-family: Roboto, "Times New", sans-serif;
+  font-family: sans-serif;
   padding: 0.2rem 0.3rem;
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
 }
 @media screen and (min-width: 66.67em) {
   #page_main {
-    max-width: 1000px;
+    max-width: 900px;
   }
 }
 @media (min-width: 34em) {
@@ -810,7 +810,7 @@ blockquote p {
 }
 @media (min-width: 66.67em) {
   .footer_wrap {
-    max-width: 1200px;
+    max-width: 900px;
   }
 }
 @media (min-width: 34em) {
