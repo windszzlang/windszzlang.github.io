@@ -498,8 +498,8 @@ blockquote p {
 }
 @media (min-width: 34em) {
   .page {
-    width: calc(85% - 165px);
-    float: right;
+    width: calc(80% - 165px);
+    float: center;
     margin-right: 0;
   }
   .page .page-title {
