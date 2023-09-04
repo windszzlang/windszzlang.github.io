@@ -527,13 +527,13 @@ blockquote p {
   line-height: 1.5;
 }
 .author-avatar {
+  opacity: 1;
   display: table-cell;
   vertical-align: top;
   width: 65px;
   height: 65px;
 }
 .author-avatar img {
-  opacity: 1;
   width: 100%;
   max-width: 110px;
   border-radius: 50%;
@@ -726,12 +726,12 @@ blockquote p {
   }
   .author-avatar {
     display: block;
+    opacity: 1;
     width: auto;
     height: auto;
     text-align: center;
   }
   .author-avatar img {
-    opacity: 1;
     padding: 5px;
     border: 1px solid #f2f3f3;
   }
