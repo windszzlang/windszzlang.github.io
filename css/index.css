@@ -223,6 +223,7 @@ figure.highlight {
   background: rgba(128,203,196,0.251);
   color: #525252;
 }
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 * {
   -webkit-text-size-adjust: none;
 }
@@ -240,13 +241,13 @@ body {
   color: #494e52;
   font-size: 1.8em;
   line-height: 1.5;
-  font-family: Roboto;
+  font-family: Roboto, Arial;
   scroll-behavior: smooth;
 }
 a,
 span,
 .btn {
-  font-family: Roboto;
+  font-family: Roboto, Arial;
 }
 img {
   max-width: 100%;
@@ -465,11 +466,11 @@ blockquote p {
   margin-bottom: 0.3rem;
 }
 .page article p {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
 }
 .page article ul {
-  margin-top: 0rem;
+  margin-top: 0.2rem;
   margin-bottom: 1rem;
 }
 .page article li {
@@ -500,7 +501,7 @@ blockquote p {
   text-align: right;
 }
 .page article code {
-  font-family: Roboto;
+  font-family: Roboto, Arial;
   padding: 0.2rem 0.3rem;
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
