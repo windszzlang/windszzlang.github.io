@@ -240,13 +240,13 @@ body {
   color: #494e52;
   font-size: 1.8em;
   line-height: 1.5;
-  font-family: Arial;
+  font-family: Roboto, Arial;
   scroll-behavior: smooth;
 }
 a,
 span,
 .btn {
-  font-family: Arial;
+  font-family: Roboto, Arial;
 }
 img {
   max-width: 100%;
@@ -451,14 +451,23 @@ blockquote p {
 }
 .page article h1 {
   font-size: 3rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 .page article h2 {
   font-size: 2.8rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.4rem;
 }
 .page article h3 {
   font-size: 2.6rem;
+  margin-top: 0.7rem;
+  margin-bottom: 0.3rem;
 }
-.page article p,
+.page article p {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
 .page article li {
   font-size: 1.8rem;
 }
@@ -487,7 +496,7 @@ blockquote p {
   text-align: right;
 }
 .page article code {
-  font-family: Arial;
+  font-family: Roboto, Arial;
   padding: 0.2rem 0.3rem;
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
