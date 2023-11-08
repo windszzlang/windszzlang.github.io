@@ -466,11 +466,12 @@ blockquote p {
   margin-bottom: 0.6rem;
 }
 .page article p {
-  margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
+  line-height: 1.5;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
 }
 .page article ul {
-  margin-top: 0.1rem;
+  margin-top: 0.2rem;
   margin-bottom: 0.7rem;
 }
 .page article li {
